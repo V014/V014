@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img align="center" src="https://github.com/V014/V014/blob/master/wave.gif" alt="v014" height="90" width="130" /></a>, I'm Wanga Kanjala</h1>
+<h1 align="center">Hi <img align="center" src="https://github.com/V014/V014/blob/master/wave.gif" alt="v014" height="45" width="65" /></a>, I'm Wanga Kanjala</h1>
 <h3 align="center">A passionate frontend and backend developer from Malawi</h3>
 
 
