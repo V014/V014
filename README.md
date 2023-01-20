@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img align="center" src="https://github.com/V014/V014/blob/master/wave.gif" alt="v014" height="22" width="32" /></a>, I'm Wanga Kanjala</h1>
 <h3 align="center">A passionate frontend and backend developer from Malawi</h3>
-<img src="https://github.com/V014/V014/blob/master/banner.gif" alt="banner image" />
+<img align="center" src="https://github.com/V014/V014/blob/master/banner.gif" alt="banner image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v014&label=Profile%20views&color=0e75b6&style=flat" alt="v014" /> </p>
 
