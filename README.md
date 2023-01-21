@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v014&label=Profile%20views&color=0e75b6&style=flat" alt="v014" /> </p>
 
-<p align="left"> <a href="https://twitter.com/elderwanga" target="blank"><img src="https://img.shields.io/twitter/follow/elderwanga?logo=twitter&style=for-the-badge" alt="elderwanga" /></a> </p>
-
 - 🔭 I’m currently working on [SpendWise](https://github.com/V014/SpendWise_MoneyTracker)
 
 - 🌱 I’m currently learning **JavaScript, Java and Python**
