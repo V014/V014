@@ -1,11 +1,7 @@
-<img src="banner.gif" alt="banner image" />
-<h1 align="center">Hi <img align="center" src="wave.gif" alt="v014" height="22" width="22" /></a>, I'm Wanga Kanjala</h1>
+<h1 align="center">Hi <img align="center" src="https://github.com/V014/V014/blob/master/wave.gif" alt="v014" height="22" width="32" /></a>, I'm Wanga Kanjala</h1>
 <h3 align="center">A passionate frontend and backend developer from Malawi</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v014&label=Profile%20views&color=0e75b6&style=flat" alt="v014" /> </p>
-
-<p align="left"> <a href="https://twitter.com/elderwanga" target="blank"><img src="https://img.shields.io/twitter/follow/elderwanga?logo=twitter&style=for-the-badge" alt="elderwanga" /></a> </p>
 
 - 🔭 I’m currently working on [SpendWise](https://github.com/V014/SpendWise_MoneyTracker)
 
