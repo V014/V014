@@ -1,7 +1,10 @@
-<h1 align="center">Hi <img align="center" src="https://github.com/V014/V014/blob/master/wave.gif" alt="v014" height="22" width="32" /></a>, I'm Wanga Kanjala</h1>
-<h3 align="center">A passionate frontend and backend developer from Malawi</h3>
+<h1 align="center"><img align="center" src="wave.gif" alt="v014" height="32" width="32" /></a>😎 Hi, I'm Wanga Kanjala</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v014&label=Profile%20views&color=0e75b6&style=flat" alt="v014" /> </p>
+<img src="banner.gif">
+
+### I develop apps with the purpose to help me achive goals in specific areas. I woulden't be surprised if someone out there is facing the same challenge and found an bit what the were looking for. Feel free to look through my projects and star a few because I occasionally update the UI then add the functionality later on.
+
+## 📝Note
 
 - 🔭 I’m currently working on [SpendWise](https://github.com/V014/SpendWise_MoneyTracker)
 
