@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="wave.gif" alt="v014" height="32" width="32" /></a>😎 Hi, check me out</h1>
+<h1 align="center"><img align="center" src="wave.gif" alt="v014" height="32" width="32" /></a>😎 Hi</h1>
 
 <img src="banner.gif" alt="image of red chuck taylors with rain dripping">
 
