@@ -2,7 +2,7 @@
 
 <img src="banner.gif" alt="image of red chuck taylors with rain dripping">
 
-### I develop apps with the purpose to help me achive goals in specific areas. I woulden't be surprised if someone out there is facing the same challenge and found an bit what the were looking for. Feel free to look through my projects and star a few because I occasionally update the UI then add the functionality later on.
+### I develop apps with the purpose to help me achive goals in specific areas. I woulden't be surprised if someone out there is facing the same challenge and found a bit of what they were looking for. Feel free to look through my projects and star a few because I occasionally update the UI then add the functionality later on.
 
 ## 📝Note
 
