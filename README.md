@@ -1,4 +1,4 @@
-0<img src="banner.gif" alt="image of red chuck taylors with rain dripping">
+<img src="banner.gif" alt="image of red chuck taylors with rain dripping">
 
 <h1 align="center"><img align="center" src="wave.gif" alt="v014" height="32" width="32" /></a>🙂 welcome</h1>
 
