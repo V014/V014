@@ -24,7 +24,7 @@ My name is Wanga Joel Kanjala, nickname Void A.k.a. V014. I develop apps with th
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/void265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="void265" height="30" width="40" /></a>
-<a href="https://fb.com/wangakanjala" target="blank"><img align="center" src="https://camo.githubusercontent.com/7dcfa7b070bd6baa896dda3f15688a1a9a867cbc56c09efe89f68423821deb5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6c6c6f772d25343065646469656a616f7564652532303133306b2b2d3144413146323f6c6162656c3d54776974746572266c6f676f3d74776974746572267374796c653d666f722d7468652d626164676526636f6c6f723d626c7565" alt="wangakanjala" height="30" width="40" style="max-width: 100%;"/></a>
+<a href="https://fb.com/wangakanjala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wangakanjala" height="30" width="40" /></a>
 <a href="https://instagram.com/wangakanjala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wangakanjala" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/v014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="v014" height="30" width="40" /></a>
 </p>
