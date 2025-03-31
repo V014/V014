@@ -1,7 +1,8 @@
 <img src="banner.gif" alt="image of red chuck taylors with rain dripping">
 
-### What and how
 <h1 align="center"><img align="center" src="wave.gif" alt="v014" height="32" width="32" /></a>🙂 welcome</h1>
+
+### What and how
 My name is Wanga Joel Kanjala, nickname Void A.k.a. V014. I develop apps with the purpose to help me achive goals in specific areas. I woulden't be surprised if someone out there is facing the same challenge and found a bit of what they were looking for. Feel free to look through my projects and star a few because I occasionally update the UI then add the functionality later on.
 
 ## 📝Note
