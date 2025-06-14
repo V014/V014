@@ -7,13 +7,7 @@ My name is Wanga Joel Kanjala, nickname Void A.k.a. V014. I develop apps with th
 
 ## 📝Note
 
-- 🔭 I’m currently working on [OneMag](https://v014.github.io/onemag)
-
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on [Duration](https://github.com/V014/Duration)
-
-- 🤝 I’m looking for help with [ColorNote](https://github.com/V014/colorNote)
+- 🌱 I’m currently learning **JavaScript, Python, PDO PHP**
 
 - 💬 Ask me about **App development with C# and web design or development with HTML and php**
 
