@@ -1,6 +1,4 @@
-<img src="banner.jpg" alt="image of red chuck taylors with rain dripping">
-
-<h1 align="center"><img align="center" src="wave.gif" alt="v014" height="32" width="32" /></a>🙂 welcome</h1>
+<img src="banner.jpg" alt="Robotic hands typing on windows 11 based laptop">
 
 ### Breif Introduction
 
