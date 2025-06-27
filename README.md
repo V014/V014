@@ -13,10 +13,3 @@ My name is Wanga J. Kanjala, nickname Void. I develop apps with the purpose to d
 - 📫 How to reach me **wangakanjala@gmail.com**
 
 - ⚡ Inspiration **Learn atleast 1% a day, which accumulates to 365% in a year**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v014&show_icons=true&locale=en&layout=compact" alt="v014" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v014&show_icons=true&locale=en" alt="v014" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v014&" alt="v014" /></p>
-
